@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Developer<br>🌱 I’m currently learning PHP and React Native<br>⚡ I love code in my free time :)
+🔭 I’m currently working on Full Stack Developer<br>🌱 I’m currently learning PHP and Angular<br>⚡ I love code in my free time :)
 
 
 ## 🌐 Socials:
